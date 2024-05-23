@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dart",
+    "secondName": "Vader",
+    "age": 23,
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "firstName": "Dog",
+    "secondName": "Chubaka",
+    "age": 27,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "firstName": "Luke",
+    "secondName": "Skywalker",
+    "age": 23,
+    "city": "London"
+  }
+]
