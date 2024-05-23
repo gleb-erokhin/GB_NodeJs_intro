@@ -1,0 +1,16 @@
+{
+  "name": "phive_generate_user",
+  "version": "1.0.1",
+  "description": "Creating random user parameters, creating a user object with random parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "generate",
+    "random"
+  ],
+  "author": "Eugene Phive",
+  "license": "ISC"
+}
